@@ -1,4 +1,6 @@
-<h1>Hi, I'm Marcus! I have a passion for CyberSecurity and a desire to learn</h1>
+<h1>Hi I am Marcus, I am passionate about CyberSecurity and driven by a constant desire to learn and grow in this exciting field.
+
+</h1>
 
 <h2>👨‍💻 CyberSecurty Projects:</h2>
 
